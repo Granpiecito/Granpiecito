@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ljean.is-a.dev/Logo/favicon.svg" alt="Leroy Jeanpierre — Systems Engineer, Full-Stack Developer" width="100%" />
+<img alt="Leroy Jeanpierre — Systems Engineer, Full-Stack Developer" width="100%" />
 
 <br/>
 
