@@ -1,93 +1,76 @@
-<h1 align="center">
-  Hi there, I'm Leroy Jeanpierre 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Systems Engineering Graduate · Full-Stack Developer · Tech Enthusiast
-</h3>
+<img src="./github_banner_leroy_jeanpierre.svg" alt="Leroy Jeanpierre — Systems Engineer, Full-Stack Developer" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=granpiecito&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br/>
 
----
+[![Email](https://img.shields.io/badge/Email-jeanpierresperrymanleman%40gmail.com-22D3EE?style=flat-square&logo=gmail&logoColor=white)](mailto:jeanpierresperrymanleman@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-granpiecito-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/granpiecito)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ljean.is--a--dev-2DD4BF?style=flat-square&logo=googlechrome&logoColor=white)](https://ljean.is.a-dev/es)
 
-## 🙋‍♂️ About Me
+</div>
 
-- 🎓 Systems Engineering graduate with a passion for building scalable, elegant solutions
-- 💻 I enjoy working across the full stack — from UI/UX design to backend architecture
-- 🌱 Currently sharpening my skills in **Filament**, **n8n**, **ETL pipelines** and **Python**
-- 🔭 Always looking for new challenges and open-source projects to contribute to
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/leroy-perryman-aleman) · [Portfolio](https://ljean.is-a.dev)
+<br/>
 
----
+## About me
 
-## 🛠️ Languages & Tools
+Systems Engineer with hands-on experience in backend development, process automation, API integration and Linux infrastructure administration. Specialized in **Laravel, PHP, Python and SQL**, with a track record building enterprise applications, ETL pipelines, AI-driven automation, web scraping and management systems — for both public institutions and private companies.
 
-### Frontend & UI
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro" width="40" height="40"/>
-</p>
+- 🔭 Currently building automation workflows and scalable backend systems
+- 🤖 Working with LLMs, RAG pipelines and conversational automation (n8n, Evolution API)
+- 🗄️ Comfortable across modern stacks and legacy systems alike
+- 📍 Managua, Nicaragua
 
-### Backend & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://images.icon-icons.com/2699/PNG/512/laravel_logo_icon_168331.png" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-</p>
+<br/>
 
-### Data & ETL
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-</p>
+## Tech stack
 
-### Automation & DevOps
-<p>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+<div align="center">
 
-### Design
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</p>
+**Languages**
+<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Backend & frontend**
+<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 📊 GitHub Stats
+**Databases**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=granpiecito&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+**Automation & AI**
+<br/>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-22D3EE?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-2DD4BF?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=granpiecito&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+**Infrastructure**
+<br/>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=granpiecito&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</div>
 
----
 
-## 🤝 Connect with Me
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/leroy-perryman-aleman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ljean.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<sub>Built with 💙 by Leroy Jeanpierre — Systems Engineer · Full-Stack Developer</sub>
+
+</div>
