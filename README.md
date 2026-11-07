@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-jeanpierresperrymanleman%40gmail.com-22D3EE?style=flat-square&logo=gmail&logoColor=white)](mailto:jeanpierresperrymanleman@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jeanpierresperrymanaleman%40gmail.com-22D3EE?style=flat-square&logo=gmail&logoColor=white)](mailto:jeanpierresperrymanleman@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-granpiecito-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/granpiecito)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ljean.is--a--dev-2DD4BF?style=flat-square&logo=googlechrome&logoColor=white)](https://ljean.is.a-dev/es)
 
